@@ -2,4 +2,4 @@
 
 This repository hosts my personal portfolio website.
 
-🔗 **Live Website:** 
+🔗 **Live Website:*https://michaelg-cmd.github.io/michaelg-cmd/* 
